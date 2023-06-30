@@ -1,0 +1,15 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: rgba(198, 194, 194, 0.48);
+  border: 2px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+  min-height: 100%;
+}

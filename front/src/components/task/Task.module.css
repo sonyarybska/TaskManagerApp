@@ -1,0 +1,39 @@
+.EnterForm {
+    width: 400px;
+    height: 400px;
+    background-color: rgba(198, 194, 194, 1.0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.DateBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 100px;
+}
+
+.DateBox p {
+    width: 80px;
+}
+
+.TextInput input {
+    width: 300px;
+}
+
+#Name input {
+    height: 25px;
+}
+#Description textarea {
+    width: 300px;
+}
+
+.ButtonBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

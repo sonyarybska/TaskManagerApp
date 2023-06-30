@@ -1,0 +1,22 @@
+.TaskHeader{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+.TaskHeader p{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    width: 150px;
+}
+
+.OverlayBox {
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}

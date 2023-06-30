@@ -1,0 +1,17 @@
+.RegistrationBox {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+}
+.RegistrationForm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.RegistrationBox p{
+    text-align: center;
+}

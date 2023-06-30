@@ -1,0 +1,10 @@
+.DeletePopup{
+    width: 350px;
+    height: 200px;
+    background-color: rgba(198, 194, 194, 1.0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+}
